@@ -1,6 +1,6 @@
 # Soft Actor-Critic (SAC) from Scratch
 
-**Authors:** Diavolitsis Panagiotis Eleftherios (1092563), Tsoutouras Sotirios (1092586)
+**Authors:** Diavolitsis Panagiotis Eleftherios 
 
 ## Project Description
 
